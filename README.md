@@ -1,2 +1,2 @@
 # website
-This is for developing the mujjer.tk website
+This is for developing the mexico quality website
